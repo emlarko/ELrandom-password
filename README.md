@@ -14,4 +14,4 @@ The password length must be between 8 - 128 characters; if the user enters a len
 
 https://emlarko.github.io/ELrandom-password/
 
-![Screenshot](Images/password_screenshot.png?raw=true "Screenshot")
+![Screenshot](assets/Images/password_screenshot.png?raw=true "Screenshot")
